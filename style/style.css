@@ -9,7 +9,11 @@ th, td{
   padding-right: 10px;
 }
 .image{
-  padding-top: 10px;
+  width: 320px;
+  padding-top: 15px;
+  padding-left: 0%;
+  padding-right: 0%;
+  
 }
 
 p{
