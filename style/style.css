@@ -1,8 +1,13 @@
+nav{
+  font-size: 18px; 
+  position: sticky;
+  top: 0;
+}
 table {
   float: right;
   font-size: 14px;
   border: 2px solid black;
-  margin-right: 5ch;
+  margin-right: 6ch;
   margin-top: 30px;
   margin-left: 3ch;
 }
@@ -65,5 +70,5 @@ footer {
 
 .card {
   float: right;
-  margin: 3ch 5ch 3ch 3ch;
+  margin: 3ch 4ch 3ch 3ch;
 }
