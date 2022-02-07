@@ -2,7 +2,7 @@ table {
   float: right;
   font-size: 14px;
   border: 2px solid black;
-  margin-right: 3ch;
+  margin-right: 6ch;
   margin-top: 30px;
   margin-left: 3ch;
 }
@@ -31,7 +31,7 @@ td {
 }
 
 .h3 {
-  padding-left: 5ch;
+  padding-left: 3ch;
   margin-top: 20px;
   padding-bottom: 15px;
 }
@@ -65,5 +65,5 @@ footer {
 
 .card {
   float: right;
-  margin: 3ch 3ch 3ch 3ch;
+  margin: 3ch 6ch 3ch 3ch;
 }
