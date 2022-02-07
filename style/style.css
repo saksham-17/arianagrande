@@ -6,37 +6,56 @@ table {
   margin-top: 30px;
   margin-left: 20px;
 }
-nav{
+
+nav {
   background-color: rgb(239, 248, 246);
 }
-th, td{
+
+th,
+td {
   padding-left: 10px;
   padding-right: 10px;
 }
-.image{
+
+.image {
   height: 270px;
-  padding-top: 15px; 
+  padding-top: 15px;
   padding-left: 20px;
   padding-bottom: 15px;
 }
-.h1{
+
+.h1 {
   margin-top: 30px;
   text-align: center;
+  padding-bottom: 10px;
 }
-#indent{
+
+.h3 {
+  padding-left: 5ch;
+  margin-top: 20px;
+  padding-bottom: 15px;
+}
+
+#indent {
   text-indent: 3em;
   padding-left: 6ch;
-  text-align:left;
+  padding-right: 3ch;
+  padding-bottom: 20px;
   text-align: inherit;
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
- }
+}
 
-.back{
+.back {
   background-color: beige;
 }
-footer{
+
+footer {
   margin-top: 30px;
   background-color: rgb(239, 248, 246);
 }
 
+.card {
+  float: right;
+  margin: 20px 20px 20px 20px;
+}
