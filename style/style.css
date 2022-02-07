@@ -2,9 +2,9 @@ table {
   float: right;
   font-size: 14px;
   border: 2px solid black;
-  margin-right: 20px;
+  margin-right: 3ch;
   margin-top: 30px;
-  margin-left: 20px;
+  margin-left: 3ch;
 }
 
 nav {
@@ -38,7 +38,15 @@ td {
 
 #indent {
   text-indent: 3em;
-  padding-left: 6ch;
+  padding-left: 3ch;
+  padding-right: 3ch;
+  padding-bottom: 20px;
+  text-align: inherit;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.list{
+  padding-left: 3ch;
   padding-right: 3ch;
   padding-bottom: 20px;
   text-align: inherit;
@@ -57,5 +65,5 @@ footer {
 
 .card {
   float: right;
-  margin: 20px 20px 20px 20px;
+  margin: 3ch 3ch 3ch 3ch;
 }
